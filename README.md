@@ -27,12 +27,12 @@ I am currently developing a startup platform designed to **transform passive aud
 ---
 
 ## 📈 Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_AetherionNode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_AetherionNode&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AetherionNode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherionNode&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
-* **Research:** [[https://www.techrxiv.org/users/966725]]
-* **Socials:** [TikTok@lj.nauta]
+* **Research:** [TechRxiv Profile](https://www.techrxiv.org/users/966725)
+* **Socials:** [TikTok @lj.nauta](https://www.tiktok.com/@lj.nauta)
 * **Current Goal:** Collaborating with optics researchers and seeking opportunities in major tech R&D (Quantum/AI).
