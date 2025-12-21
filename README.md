@@ -27,8 +27,8 @@ I am currently developing a startup platform designed to **transform passive aud
 ---
 
 ## 📈 Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_AetherionNode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_AetherionNode&layout=compact&theme=tokyonight)
 
 ---
 
